@@ -1,8 +1,7 @@
 export const navLinks = [
   { label: "Store" },
   { label: "Mac" },
-  { label: "iphone" },
-  { label: "Watch" },
+  { label: "iPhone" },  { label: "Watch" },
   { label: "Vision" },
   { label: "AirPods" },
 ];
@@ -120,7 +119,7 @@ export const featureSequence = [
     { videoPath: "/videos/feature-5.mp4", boxClass: ".box5", delay: 0 },
 ];
 
-const footerLinks = [
+export const footerLinks = [
     { label: "Privacy Policy", link: "#" },
     { label: "Terms of Use", link: "#" },
     { label: "Sales Policy", link: "#" },
